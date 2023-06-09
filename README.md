@@ -61,7 +61,7 @@ Customer Commute with Count of Purchased Bike: This component showcases the rela
 
 These dashboard components provide a comprehensive overview of the data, allowing users to explore relationships between variables and gain valuable insights into bike purchases based on education, marital status, region, income, age, and commute distance.
 
-to the dashboard if possible.
+
 
 
 

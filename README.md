@@ -7,10 +7,6 @@ Demographic Analysis and Bike Purchase Prediction
 - [Data](#data)
 - [Pivot Table](#pivot-table)
 - [Dashboard](#dashboard)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 This project aims to analyze a dataset containing demographic information of individuals and predict whether they are likely to purchase a bike.The project involves exploring the dataset, creating a pivot table to gain insights into the relationships between different variables, and building a dashboard to visualize the data using bar charts, line charts, and slicers. The dashboard provides a user-friendly interface to explore and understand the patterns and trends within the dataset.
